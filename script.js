@@ -39,7 +39,7 @@ document.querySelector('.check').addEventListener('click', function () {
       //   document.querySelector('.message').textContent =
       //     score > secretNumber ? `📈 To High` : `📉 To Low`;
 
-      // dry principle
+      // dry principle ok
 
       displayMessage(guess > secretNumber ? `📈 To High` : `📉 To Low`);
 
